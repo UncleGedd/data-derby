@@ -1,0 +1,3 @@
+Look at "word distance" between discrepancies
+
+what events take the longest to repair (look at hrs)
